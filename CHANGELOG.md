@@ -25,3 +25,7 @@
 #### features
 * added switch
 * added javadocs
+
+## 1.9.0 (4/19/18)
+#### features
+* update for release

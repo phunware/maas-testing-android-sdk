@@ -16,3 +16,6 @@
 
 ## 1.x.0 -> 1.8.0
 #### No major changes
+
+## 1.8.0 -> 1.9.0
+#### No major changes
