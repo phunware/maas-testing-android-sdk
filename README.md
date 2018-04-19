@@ -1,6 +1,7 @@
 # MaaS Test SDK for Android
 
-=======
+[Android MaaS Core Documentation](http://phunware.github.io/maas-testing-android-sdk/)
+
 **Version 1.9.0**
 ________________
 
