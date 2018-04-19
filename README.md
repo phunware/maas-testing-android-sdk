@@ -1,7 +1,11 @@
 # MaaS Test SDK for Android
 
 =======
-**Version 1.8.0**
+<<<<<<< HEAD
+**Version 1.7.0**
+=======
+**Version 1.9.0**
+>>>>>>> release-1.9.0
 ________________
 
 ## Overview
