@@ -29,3 +29,11 @@
 ## 1.9.0 (4/19/18)
 #### features
 * update for release
+
+## 2.0.0 (4/19/18)
+#### features
+* update for release
+
+## 2.1.0 (4/19/18)
+#### features
+* update for release
