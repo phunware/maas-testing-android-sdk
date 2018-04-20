@@ -41,3 +41,7 @@
 ## 2.2.0 (4/20/18)
 #### features
 * update for release
+
+## 2.3.0 (4/20/18)
+#### features
+* update for release
