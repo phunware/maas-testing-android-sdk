@@ -2,7 +2,7 @@
 
 [Android MaaS Testlib Documentation](http://phunware.github.io/maas-testing-android-sdk/)
 
-**Version 2.1.0**
+**Version 2.2.0**
 ________________
 
 ## Overview
