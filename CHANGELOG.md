@@ -45,3 +45,19 @@
 ## 2.3.0 (4/20/18)
 #### features
 * update for release
+
+## 2.4.0 (4/24/18)
+#### features
+* added manager and javadocs
+
+## 2.5.0 (4/24/18)
+#### features
+* updates
+
+## 2.6.0 (4/24/18)
+#### features
+* updates
+
+## 2.7.0 (4/24/18)
+#### features
+* updates
