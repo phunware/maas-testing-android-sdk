@@ -74,3 +74,11 @@
 #### features
 * updates
 
+## 3.1.1 (6/29/18)
+#### features
+* updates
+
+## 3.1.2 (6/29/18)
+#### features
+* updates
+
