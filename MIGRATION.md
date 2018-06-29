@@ -52,3 +52,9 @@
 
 ## 3.0.1 -> 3.1.0
 #### No major changes
+
+## 3.1.0 -> 3.1.1
+#### No major changes
+
+## 3.1.1 -> 3.1.2
+#### No major changes
