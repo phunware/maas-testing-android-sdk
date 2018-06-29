@@ -61,3 +61,16 @@
 ## 2.7.0 (4/24/18)
 #### features
 * updates
+
+## 3.0.0 (6/27/18)
+#### features
+* updates
+
+## 3.0.1 (6/28/18)
+#### features
+* updates
+
+## 3.1.0 (6/29/18)
+#### features
+* updates
+

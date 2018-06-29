@@ -43,3 +43,12 @@
 
 ## 2.6.0 -> 2.7.0
 #### No major changes
+
+## 2.7.0 -> 3.0.0
+#### No major changes
+
+## 3.0.0 -> 3.0.1
+#### No major changes
+
+## 3.0.1 -> 3.1.0
+#### No major changes
